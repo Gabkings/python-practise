@@ -2,7 +2,7 @@ __author__ = 'Gabriel Gitonga'
 
 
 def fib2(n):  # return Fibonacci series up to n
-     """Return a list containing the Fibonacci series up to n."""
+    """Return a list containing the Fibonacci series up to n."""
     result = []
     a, b = 0, 1
     while a < n:
